@@ -24,7 +24,7 @@ Evaluate machine learning models or algorithms to predict credit risk.
 <img width="665" alt="Captura de Pantalla 2022-07-07 a la(s) 23 10 41" src="https://user-images.githubusercontent.com/71950779/177921303-41987cd3-b7e1-4b81-950c-6a6cbb70b6c5.png">
 
 
-### Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 - Balanced accuracy score: 0.9254 -> **93**
 
 - Sensitivity/recall : **0.91** Highest recall of all, meaning high prediction can be likely true negatives.
@@ -56,7 +56,7 @@ A low recall is indicative of a large number of false negatives.
 #### Imbalanced classification report
 <img width="669" alt="Captura de Pantalla 2022-07-07 a la(s) 23 08 27" src="https://user-images.githubusercontent.com/71950779/177921106-c8426b67-147b-4ce4-9c1c-3b0dde723bd9.png">
 
-### SMOTE Oversampling
+### SMOTE Oversampling
 - Balanced accuracy score: 0.6512 -> **65%**
 
 - Sensitivity/recall : **0.62** A low recall is indicative of a large number of false negatives.
@@ -71,7 +71,7 @@ A low recall is indicative of a large number of false negatives.
 #### Imbalanced classification report
 <img width="672" alt="Captura de Pantalla 2022-07-07 a la(s) 23 06 29" src="https://user-images.githubusercontent.com/71950779/177920907-c4d6e8ce-68c3-4c63-91a4-9843807d1f64.png">
 
-### Undersampling ClusterCentroids
+### Undersampling ClusterCentroids
 - Balanced accuracy score: 0.5103 -> **51 %**
 
 - Sensitivity/recall : **0.64** A low recall is indicative of a large number of false negatives.
@@ -87,7 +87,7 @@ A low recall is indicative of a large number of false negatives.
 <img width="669" alt="Captura de Pantalla 2022-07-07 a la(s) 23 06 56" src="https://user-images.githubusercontent.com/71950779/177920964-46136335-d443-4783-a84d-dac85d67d0e9.png">
 
 
-### Combination (Over and Under) Sampling SMOTEENN
+### Combination (Over and Under) Sampling SMOTEENN
 - Balanced accuracy score: 0.6375 -> **64 %** 
 
 - Sensitivity/recall : **0.70** 
